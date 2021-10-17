@@ -17,6 +17,6 @@ Initial inspiration for the project came from [Codepen.io](https://codepen.io/na
 
 ## 📜 License
 
-Copyright ;&copy Nandkishor01. All rights reserved.
+Copyright (c) Nandkishor01. All rights reserved.
 
 Licensed under the [MIT](LICENSE) License.
