@@ -14,5 +14,5 @@ currently being supported with security updates.
 
 Just go to issue and tell me about vulnerability or bug
 
-You can get all the updes here only.
+You can get all the updates here only.
 Thank you
