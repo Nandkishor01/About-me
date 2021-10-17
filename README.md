@@ -1,6 +1,6 @@
 # Made with ❤️ by [`Nandkishor01`](https://github.com/Nandkishor01)
 
-![Made with love in India](https://madewithlove.now.sh/in)
+![Made with ❤️ in India](https://madewithlove.now.sh/in)
 
 > Simple Web Page For Introduction.
 
