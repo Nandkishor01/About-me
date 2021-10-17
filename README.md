@@ -15,7 +15,7 @@ Also, I believe this is a cute way to show where you are from or where you built
 Initial inspiration for the project came from [Codepen.io](https://codepen.io/naveenjetty/pen/eBVdez). 
 
 
-## License
+## 📜 License
 
 Copyright (c) Nandkishor01. All rights reserved.
 
