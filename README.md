@@ -6,7 +6,7 @@
 
 Provides a quick and easy way to create a website to showcase your name, country of origin and projects!
 
-## About
+## :information_source:	 About
 
 I built this project primarily to understand how to implement a small and simple website (microservices), and serverless deployment.
 
