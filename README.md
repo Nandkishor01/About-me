@@ -14,9 +14,12 @@ Also, I believe this is a cute way to show where you are from or where you built
 
 Initial inspiration for the project came from [Codepen.io](https://codepen.io/naveenjetty/pen/eBVdez). 
 
+## Screenshot 
 
-## 📜 License
+![screencapture-nandkishor-ga-2021-12-05-12_15_43](https://user-images.githubusercontent.com/80894008/144741696-e16249dd-ce09-4ddd-8c78-d2014a8c575f.png)
 
-Copyright © Nandkishor01. All rights reserved.
+## 📜 License 
+
+Copyright © Nandkishor01 All rights reserved.
 
 Licensed under the [MIT](LICENSE) License.
